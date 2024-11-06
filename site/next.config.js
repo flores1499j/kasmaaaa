@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'aaaaa',
+    name: 'kasmaaaa',
     description: 'The unofficial store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://registry.kasmweb.com/',
